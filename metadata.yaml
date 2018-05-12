@@ -1,0 +1,26 @@
+_repo: Drum-Taps-in-DixieMemories-of-a-Drummer-Boy-1861-1865_41608
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41608-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Delavan S.
+    gutenberg_agent_id: '41257'
+    url: http://www.gutenberg.org/2009/agents/41257
+description: ''
+gutenberg_issued: '2012-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41608'
+  lccn: '06001552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'United States. Army. New York Artillery Regiment, 2nd (1861-1865) -- History'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: 'Drum Taps in Dixie: Memories of a Drummer Boy, 1861-1865'
+url: http://www.gutenberg.org/ebooks/41608
